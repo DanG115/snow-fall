@@ -17,6 +17,10 @@ This is a simple web page with a falling snow effect. You can use it to add a fe
    - To toggle the falling snow effect on and off, use the provided toggle switch.
    - Locate the "Toggle Snow" text on the page and click the adjacent toggle switch.
 
+## Demo
+
+Check out the [Falling Snow Effect Demo](https://dan-gleeson.co.uk/projects/snow/demo) to see it in action.
+
 ## Additional Information
 
 - The falling snow effect is achieved using CSS animations.
