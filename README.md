@@ -5,7 +5,7 @@ This is a simple web page with a falling snow effect. You can use it to add a fe
 ## How to Use
 
 1. **Download the Files:**
-   - Download the `index.html` and `index.css` files from the repository.
+   - Download the `index.html`, `index.css` and `snowfall.js` files from the repository.
 
 2. **Include in Your Project:**
    - Place the `index.html`, `index.css` and `snowfall.js` files in your project directory.
